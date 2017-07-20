@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_item_adds"
+        android:actionLayout="@layout/activity_maps"
+
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:orderInCategory="1"
+        android:title="Pre Location"
+        app:showAsAction="always" >
+
+        <menu>
+            <item
+                android:id="@+id/pre_location"
+                android:title="My Pre Location" />
+
+             <item
+                 android:id="@+id/current_location"
+                 android:title="I Stay Now..."/>
+
+        </menu>
+
+
+
+
+
+
+
+
+
+
+    </item>
+
+</menu>

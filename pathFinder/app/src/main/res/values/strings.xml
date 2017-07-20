@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Path Finder</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="txt1">Path Finder</string>
+    <string name="txt2">This is Next activity</string>
+
+</resources>
